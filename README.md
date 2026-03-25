@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tokunbo Desalu</h1>
+<h1 align="center">Hi 👋, I'm Toks Desalu</h1>
 <h3 align="center">A passionate IT, cybersecurity, and web development student.</h3>
 
 - 🔭 I’m currently working on **Red Hat and Python certification**
